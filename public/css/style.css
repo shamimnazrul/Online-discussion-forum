@@ -1,0 +1,276 @@
+.mar_top_25{
+    margin-top: 25px;
+}
+.mar_top_30{
+    margin-top: 30px;
+}
+.mar_top_40{
+    margin-top: 40px;
+}
+.mar_top_80{
+    margin-top: 80px;
+}
+.mar_top_150{
+    margin-top: 150px;
+}
+
+.mar_bot_30{
+    margin-bottom: 30px;
+}
+.mar_bot_40{
+    margin-bottom: 40px;
+}
+.mar_bot_50{
+    margin-bottom: 50px;
+}
+.mar_bot_80{
+    margin-bottom: 80px;
+}
+
+.banner {
+    background: url(../images/back.jpg);
+    background-size: cover;
+
+
+}
+
+.community {
+    background: url(../images/footer_top.png);
+        background-size: cover;
+}
+
+.navbar-default{
+    background: rgba(0,0,0, .2);
+    border-color: transparent;
+    box-shadow: none;
+     border-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color:#16A085;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent;
+}
+.banner_contant{
+    color: white;
+    padding: 432px 0;
+}
+
+
+.twi_col{
+    color: white;
+}
+.banner_h{
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: 09px;
+}
+.banner_p{
+    font-size: 16px;
+    letter-spacing: 5px;
+}
+.banner_btn{
+    background: #16A085;
+    font-size: 12px;
+    font-weight: bold;
+    border-color: transparent;
+    padding: 13px 34px;
+    border-radius: 4px;
+    color: white;
+}
+
+.banner_icon{
+color: white;
+    font-size: 24px;
+    margin-bottom: 11px;
+}
+
+.color_gr{
+    color: #16A085;
+}
+
+.camera_h{
+   color:  #16A085;
+   text-transform: uppercase;
+   font-size: 18px;
+   font-weight: bold;
+       margin-bottom: 30px;
+       letter-spacing: 1px;
+}
+
+.camera_p{
+    letter-spacing: 1px;
+}
+
+.camer-im{
+margin: 0 auto
+}
+
+camera_center{
+    
+}
+.comm_h{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+.mail_input{
+   color: #16A085;
+}
+
+.icon-bac{
+background: #16A085;
+    font-size: 22px;
+    color: white;
+    padding: 6px 10px;
+    border-radius: 0px 3px 3px 0px;
+}
+.span_b{
+    
+}
+
+.input-group {
+    position: relative;
+    display: table;
+    border-collapse: separate;
+    width: 52%;
+}
+
+.input-ma{
+margin-left: 38%;
+    margin-top: 29px;
+    width: 20%
+}
+
+.com_content{
+    padding: 533px 0;
+}
+
+.dow_h{
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.dow_p {
+letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.app{
+    color: white;
+    background: #1abc9c;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 13px 0;
+    padding-left: 20px;
+    padding-right: 1px;
+}
+a:hover, a:focus {
+color: white; 
+     text-decoration: none; 
+}
+
+.fa-icon{
+    background: #16a085;
+    padding: 12px 15px;
+    margin-left: 30%;
+}
+
+.f_h{
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.app_color{
+    color: white;
+    background: #16A085;
+}
+
+.color_input{
+border-left: 0;
+    background: #1ABC9C;
+    color: white;
+    border: none;
+}
+
+.input-group-addon:last-child {
+    border-left: 0;
+    background: #16A085;
+    color: white;
+    border: 1px solid transparent;
+}
+
+.place_color::-webkit-input-placeholder{
+   color: white; 
+}
+
+.place_color:-moz-placeholder{
+    color: white; 
+}
+
+.place_color::-moz-placeholder{
+    color: white; 
+}
+
+.place_color:-ms-input-placeholder{
+    color: white; 
+}
+
+
+
+@media only screen and (min-width: 200px) and (max-width: 1200px) {
+    .applestore {
+        width: 68%;
+      
+    }
+}
+
+.car_a{
+color: black;
+    font-size: 22px;
+}
+
+/*.carousel-control {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+  
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    
+    background-color: rgba(0, 0, 0, 0);
+    filter: alpha(opacity=50);
+}*/
+
+
+.carousel-control.right {
+    margin-left: 1%;
+    background: transparent;
+}
+.carousel-control.left {
+    margin-left: 92%;
+    background: transparent;
+}
+
+.mar{
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+  
